@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Hudson Ferreira</h1>
 <h3 align="center">Desenvolvedor Júnior Full Stack JavaScript | TypeScript | Node.Js | React | Nest.Js | Next.Js</h3>
 
-- 🔭 Ultimo trabalho [Desenvolvedor Full Stack](https://www.linkedin.com/company/adriano-cobuccio/mycompany/)
+- 🔭 [Desenvolvedor Full Stack](https://www.linkedin.com/company/adriano-cobuccio/mycompany/)
 
 - 💬 Me pergunte sobre **JavaScript | TypeScript | Node.Js | React | Nest.Js | Next.Js**
 
