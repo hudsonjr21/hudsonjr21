@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Hudson Ferreira</h1>
-<h3 align="center">Desenvolvedor Júnior Full Stack JavaScript | TypeScript | Node.Js | React | Nest.Js | Next.Js</h3>
+<h3 align="center">Desenvolvedor Full Stack JavaScript | TypeScript | Node.Js | React | Nest.Js | Next.Js</h3>
 
 - 🔭 [Desenvolvedor Full Stack](https://www.linkedin.com/company/adriano-cobuccio/mycompany/)
 
