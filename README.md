@@ -1,21 +1,66 @@
-<h1 align="center">Oi 👋, Eu sou Hudson Ferreira</h1>
-<h3 align="center">Desenvolvedor Full Stack JavaScript | TypeScript | Node.Js | React | Nest.Js | Next.Js</h3>
+<div align="center">
 
-- 🔭 Desenvolvedor Full Stack
+# Hudson Ferreira
 
-- 💬 Me pergunte sobre **JavaScript | TypeScript | Node.Js | React | Nest.Js | Next.Js**
+**Desenvolvedor Full Stack / Back-end**
 
-- 📫 Você me acha através do e-mail **hudsonferreiramb@hotmail.com**
+Construção de aplicações web, APIs e produtos com regras de negócio complexas, do desenho técnico ao deploy.
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/ferreira-hudson/](https://www.linkedin.com/in/ferreira-hudson/)
+[Portfólio](https://techud.com.br) ·
+[LinkedIn](https://linkedin.com/in/ferreira-hudson) ·
+[E-mail](mailto:hudsonferreiramb@hotmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ferreira-hudson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferreira-hudson/" height="30" width="40" /></a>
-<a href="https://instagram.com/hudson_ferreirajr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hudson_ferreirajr" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hudsonjr21&show_icons=true&locale=en&layout=compact" alt="hudsonjr21" /></p>
+## Perfil
+
+Atuo com desenvolvimento Full Stack, com foco maior em back-end, arquitetura de aplicações e regras de negócio.
+
+Minha stack principal é baseada em TypeScript, Node.js, NestJS, Next.js, React e PostgreSQL. No dia a dia também trabalho com autenticação e autorização, mensageria, comunicação em tempo real, integrações entre serviços, modelagem de dados, testes e ambientes de produção.
+
+Tenho experiência profissional no desenvolvimento de sistemas para o setor financeiro e também construo produtos e soluções independentes, participando de todo o ciclo técnico, da definição da solução à entrega.
+
+Minha experiência anterior com gestão administrativa e liderança contribui principalmente no entendimento de processos, organização de fluxos e transformação de regras de negócio em software.
+
+## Foco técnico
+
+**Back-end e APIs**  
+Node.js, NestJS, TypeScript, APIs REST, PostgreSQL, TypeORM, JWT, RBAC e Swagger/OpenAPI.
+
+**Integrações e processamento**  
+RabbitMQ, Redis, WebSockets e comunicação entre serviços.
+
+**Front-end**  
+React, Next.js, TypeScript e Tailwind CSS.
+
+**Infraestrutura e entrega**  
+Docker, Linux, VPS, GitHub Actions, CI/CD, Vercel e Cloudflare.
+
+## Cases selecionados
+
+| Projeto | Contexto | Principais pontos |
+| --- | --- | --- |
+| **PlanCaf** | SaaS multi-tenant white-label para gestão da cafeicultura | API, regras de negócio, multi-tenancy, PostgreSQL, PWA |
+| **Matos Lab Commerce** | Plataforma de e-commerce em homologação | Catálogo, checkout, estoque, RBAC, painel administrativo e integrações |
+| **Sistema de Gestão de Produção para Confecção** | Sistema para acompanhamento do processo produtivo | Fluxo operacional, regras específicas do domínio e atualizações em tempo real |
+| **NutriHud** | Produto em fase de testes | Estruturação de dados, geração de informações e evolução de funcionalidades do produto |
+
+A maior parte dos projetos principais está em repositórios privados. Arquitetura, screenshots, decisões técnicas e detalhes dos cases estão disponíveis no meu portfólio.
+
+**[Ver portfólio e cases completos →](https://techud.com.br/projetos)**
+
+## Como trabalho
+
+Antes de escolher tecnologia ou implementação, procuro entender a regra de negócio, os fluxos envolvidos e as restrições do problema.
+
+A partir disso, trabalho na definição da arquitetura, modelagem de dados, APIs, autenticação, integrações, testes e estratégia de entrega.
+
+Prefiro soluções claras e sustentáveis a complexidade técnica sem necessidade.
+
+---
+
+**Portfólio:** https://techud.com.br  
+**LinkedIn:** https://linkedin.com/in/ferreira-hudson  
+**E-mail:** hudsonferreiramb@hotmail.com
